@@ -12,3 +12,5 @@
 *.vcxproj
 *.pdb
 x64
+/TD-CUDA.vcxproj.filters
+/TD-CUDA.vcxproj.user
