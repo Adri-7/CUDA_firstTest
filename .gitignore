@@ -1,0 +1,14 @@
+#CUDA files
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+#visual studio files
+.vs
+*.sln
+*.vcxproj
+*.pdb
+x64
