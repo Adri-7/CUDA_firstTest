@@ -14,3 +14,11 @@
 x64
 /TD-CUDA.vcxproj.filters
 /TD-CUDA.vcxproj.user
+
+#built files
+*.exe
+*.exp
+*.lib
+
+#output image
+*.ppm
